@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chezy</h1>
 <h3 align="center">A passionate frontend developer from Dallas,Texas.</h3>
 
-- 🔭 I’m currently working on [a Responsive Website for a Billing Company](https://dental-guidance.netlify.app/)
+- 🔭 I’m currently working on [a Responsive Website for a Dental Billing Company](https://dental-guidance.netlify.app/)
 
 - 🌱 I’m currently learning **Back-end Development**
 
