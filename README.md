@@ -1,4 +1,4 @@
-# Profile-README
+
 <h1 align="center">Hi 👋, I'm Chezy</h1>
 <h3 align="center">A passionate frontend developer from Dallas,Texas.</h3>
 
